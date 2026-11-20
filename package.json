@@ -50,7 +50,7 @@
     "@secretlint/secretlint-rule-preset-recommend": "13.1.0",
     "eslint": "10.14.0",
     "globals": "17.14.0",
-    "secretlint": "13.1.0",
+    "secretlint": "14.0.1",
     "typescript": "7.0.2"
   }
 }
